@@ -1,6 +1,6 @@
 # Leaflet: Aplicación móvil
 
-Ejercicio de asignaturas de aplicaciones HTML5. Tema Bibliotecas JavaScript. Leaflet: Aplicación móvil.
+Ejercicio de asignaturas de aplicaciones HTML5. Tema APIs JavaScript. Leaflet: Aplicación móvil.
 
 ## Enunciado
 
